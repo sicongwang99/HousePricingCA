@@ -20,7 +20,6 @@ We will use the api of the above link and use the data, JSONify data for machine
 
 ## Tools
 
-
 1.	Python
 2.	Tableau
 3.	Machine-learning
